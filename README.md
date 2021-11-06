@@ -13,5 +13,6 @@ In order to open the Jupyter Notebooks in this repository, you are required to:
 2. Open the cloned folder with the contents of this repository.
 3. Open a command prompt or terminal on the folder.
 4. Run jupyter lab by running the following command **jupyter lab**.
+5. Double click on any of the notebooks from the left panel in Jupyter Lab.
 
 ## How to Run this Project on Docker
