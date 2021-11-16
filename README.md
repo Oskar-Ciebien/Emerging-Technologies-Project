@@ -16,3 +16,11 @@ In order to open the Jupyter Notebooks in this repository, you are required to:
 5. Double click on any of the notebooks from the left panel in Jupyter Lab.
 
 ## How to Run this Project on Docker
+To open this repository on Docker with Jupyter Lab:
+1. Clone this repository by copying this *[URL](https://github.com/Oskar-Ciebien/Emerging-Technologies-Project)*.
+2. Open the cloned folder of this repository.
+3. Run docker desktop on your PC.
+4. Open a command prompt or terminal on the cloned folder.
+5. Run this command **docker-compose up** in the command prompt or terminal.
+6. After docker has loaded up, copy the last localhost (127.0. 0.1) URL and open it in a browser of your choice.
+7. Jupyter Lab will open. Feel free to open any of the notebooks from the panel on the left.
