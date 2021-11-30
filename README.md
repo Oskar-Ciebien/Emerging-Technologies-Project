@@ -4,13 +4,20 @@
     <strong>Student Name:</strong> Oskar Ciebien   <strong>Student ID:</strong> G00369579
 </p>
 
-#### Scikit-Learn
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Oskar-Ciebien/Emerging-Technologies-Project/blob/main/scikit-learn.ipynb)
-[![binder](https://mybinder.org/static/images/badge_logo.svg?v=51b20aa16836ea83f5ed69194c660eb85c4c2c1e32565312baedb7d534e3ffcf592881dbbe3da441d8293ded842755c906b91fb4aadf15220cf48111ebf701c4)](https://mybinder.org/v2/gh/Oskar-Ciebien/Emerging-Technologies-Project/main?filepath=scikit-learn.ipynb)
+***
 
-#### Quantum Deutsch
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Oskar-Ciebien/Emerging-Technologies-Project/blob/main/quantum-deutsch.ipynb)
-[![binder](https://mybinder.org/static/images/badge_logo.svg?v=51b20aa16836ea83f5ed69194c660eb85c4c2c1e32565312baedb7d534e3ffcf592881dbbe3da441d8293ded842755c906b91fb4aadf15220cf48111ebf701c4)](https://mybinder.org/v2/gh/Oskar-Ciebien/Emerging-Technologies-Project/main?filepath=quantum-deutsch.ipynb)
+<br>
+You can view the Scikit-Learn and Quantum Deutsch notebooks in static form by clicking on the nbviewer image and in dynamic form by clicking on the binder image.
+
+<br>
+<center>
+
+| Scikit-Learn  | Quantum Deutsch |
+| ------------- | ------------- |
+| [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Oskar-Ciebien/Emerging-Technologies-Project/blob/main/scikit-learn.ipynb)  | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Oskar-Ciebien/Emerging-Technologies-Project/blob/main/quantum-deutsch.ipynb)  |
+| [![binder](https://mybinder.org/static/images/badge_logo.svg?v=51b20aa16836ea83f5ed69194c660eb85c4c2c1e32565312baedb7d534e3ffcf592881dbbe3da441d8293ded842755c906b91fb4aadf15220cf48111ebf701c4)](https://mybinder.org/v2/gh/Oskar-Ciebien/Emerging-Technologies-Project/main?filepath=scikit-learn.ipynb)  | [![binder](https://mybinder.org/static/images/badge_logo.svg?v=51b20aa16836ea83f5ed69194c660eb85c4c2c1e32565312baedb7d534e3ffcf592881dbbe3da441d8293ded842755c906b91fb4aadf15220cf48111ebf701c4)](https://mybinder.org/v2/gh/Oskar-Ciebien/Emerging-Technologies-Project/main?filepath=quantum-deutsch.ipynb)  |
+
+</center>
 
 ## Introduction
 
