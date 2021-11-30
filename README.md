@@ -2,9 +2,13 @@
 
 <p align="center">
     <strong>Student Name:</strong> Oskar Ciebien   <strong>Student ID:</strong> G00369579
-
-    [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Oskar-Ciebien/Emerging-Technologies-Project/blob/main/quantum-deutsch.ipynb)
 </p>
+
+#### Scikit-Learn
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Oskar-Ciebien/Emerging-Technologies-Project/blob/main/scikit-learn.ipynb)
+
+#### Quantum Deutsch
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Oskar-Ciebien/Emerging-Technologies-Project/blob/main/quantum-deutsch.ipynb)
 
 ## Introduction
 
