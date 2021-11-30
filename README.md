@@ -38,3 +38,11 @@ To open this repository on Docker with Jupyter Lab:
 5. Run this command **docker-compose up** in the command prompt or terminal.
 6. After docker has loaded up, copy the last localhost (127.0. 0.1) URL and open it in a browser of your choice.
 7. Jupyter Lab will open. Feel free to open any of the notebooks from the panel on the left.
+
+## Credits
+
+#### nbViewer Badge
+- https://github.com/jupyter/nbviewer/issues/714
+
+#### Binder Badge
+- https://mybinder.org/
