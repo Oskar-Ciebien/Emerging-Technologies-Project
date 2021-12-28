@@ -52,3 +52,21 @@ To open this repository on Docker with Jupyter Lab:
 
 #### Binder Badge
 - https://mybinder.org/
+
+#### Scikit-Learn
+- https://scikit-learn.org/
+
+#### NumPy
+- https://numpy.org/
+
+#### Jupyter
+- https://jupyter.org/
+
+#### Qiskit
+- https://qiskit.org/
+
+#### Docker
+- https://www.docker.com/
+
+#### Module Content
+- Dr. Ian McLoughlin at Galway-Mayo Institute of Technology
