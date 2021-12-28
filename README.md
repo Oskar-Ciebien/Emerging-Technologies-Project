@@ -6,6 +6,13 @@
 
 ***
 
+# Table of Contents
+* [Introduction](#introduction)
+* [How to Run Jupyter Notebook](#how-to-run-jupyter-notebook)
+* [How to Run this Project on Docker](#how-to-run-this-project-on-docker)
+* [Requirements](#requirements)
+* [Credits](#credits)
+
 <br>
 
 You can view the Scikit-Learn and Quantum Deutsch notebooks in static form by clicking on the nbviewer image and in dynamic form by clicking on the binder image.
