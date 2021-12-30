@@ -8,6 +8,7 @@
 
 # Table of Contents
 * [Introduction](#introduction)
+* [Contents of the Notebooks](#contents-of-the-notebooks)
 * [How to Run Jupyter Notebook](#how-to-run-jupyter-notebook)
 * [How to Run this Project on Docker](#how-to-run-this-project-on-docker)
 * [Requirements](#requirements)
@@ -22,9 +23,29 @@ You can view the Scikit-Learn and Quantum Deutsch notebooks in static form by cl
 | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Oskar-Ciebien/Emerging-Technologies-Project/blob/main/scikit-learn.ipynb)  | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Oskar-Ciebien/Emerging-Technologies-Project/blob/main/quantum-deutsch.ipynb)  |
 | [![binder](https://mybinder.org/static/images/badge_logo.svg?v=51b20aa16836ea83f5ed69194c660eb85c4c2c1e32565312baedb7d534e3ffcf592881dbbe3da441d8293ded842755c906b91fb4aadf15220cf48111ebf701c4)](https://mybinder.org/v2/gh/Oskar-Ciebien/Emerging-Technologies-Project/main?filepath=scikit-learn.ipynb)  | [![binder](https://mybinder.org/static/images/badge_logo.svg?v=51b20aa16836ea83f5ed69194c660eb85c4c2c1e32565312baedb7d534e3ffcf592881dbbe3da441d8293ded842755c906b91fb4aadf15220cf48111ebf701c4)](https://mybinder.org/v2/gh/Oskar-Ciebien/Emerging-Technologies-Project/main?filepath=quantum-deutsch.ipynb)  |
 
+<br>
+
 ## Introduction
 
-This is a project for the Emerging Technologies module for 2021. The task is to prove the understanding of Jupyter Lab and Python. We are required to have two Jupyter Notebooks, one called scikit-learn and the other quantum-deutsch. Where in scikit-learn we need to provide at three scikit-learn algorithms. In quantum-deutsch notebook, we need to compare quantum computing and classical computing, and explain Deutsch's algorithm with the code simulating it with qiskit.
+This is a project for the Emerging Technologies module for 2021. The task is to prove the understanding of Jupyter Lab and Python and show our learning outcomes of the the Emerging Technologies module. We are required to have two Jupyter Notebooks, one called scikit-learn and the other quantum-deutsch.
+
+<br>
+
+## Contents of the Notebooks
+
+### Scikit-Learn Notebook
+- This notebook contains the overall overview of the Scikit-Learn Python Library.
+- Demonstration of three algorithms where some were covered in class and some were researched for.
+- Visuals and plots.
+
+<br>
+
+### Quantum-Deutsch Notebook
+- Quantum-Deutsch notebook contains the description of Quantum Computing.
+- Comparison of Quantum Computing and Classical Computing.
+- Descriptions of the Deutsch's Algorithm and code samples.
+
+<br>
 
 ## How to Run Jupyter Notebook
 
@@ -34,6 +55,8 @@ In order to open the Jupyter Notebooks in this repository, you are required to:
 3. Open a command prompt or terminal on the folder.
 4. Run jupyter lab by running the following command **jupyter lab**.
 5. Double click on any of the notebooks from the left panel in Jupyter Lab.
+
+<br>
 
 ## How to Run this Project on Docker
 
@@ -46,11 +69,15 @@ To open this repository on Docker with Jupyter Lab:
 6. After docker has loaded up, copy the last localhost (127.0. 0.1) URL and open it in a browser of your choice.
 7. Jupyter Lab will open. Feel free to open any of the notebooks from the panel on the left.
 
+<br>
+
 ## Requirements
 - Cmder (Optional)
 - Docker
 - Anaconda
 - WSL2
+
+<br>
 
 ## Credits
 
