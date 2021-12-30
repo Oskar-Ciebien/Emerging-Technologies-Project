@@ -27,7 +27,7 @@ You can view the Scikit-Learn and Quantum Deutsch notebooks in static form by cl
 
 ## Introduction
 
-This is a project for the Emerging Technologies module for 2021. The task is to prove the understanding of Jupyter Lab and Python and show our learning outcomes of the the Emerging Technologies module. We are required to have two Jupyter Notebooks, one called scikit-learn and the other quantum-deutsch.
+This is a project for the Emerging Technologies module for 2021. The task is to prove the understanding of Jupyter Lab, Python and to show our learning outcomes of the the Emerging Technologies module. We are required to have two Jupyter Notebooks, one called scikit-learn and the other quantum-deutsch.
 
 <br>
 
@@ -66,7 +66,7 @@ To open this repository on Docker with Jupyter Lab:
 3. Run docker desktop on your PC.
 4. Open a command prompt or terminal on the cloned folder.
 5. Run this command **docker-compose up** in the command prompt or terminal.
-6. After docker has loaded up, copy the last localhost (127.0. 0.1) URL and open it in a browser of your choice.
+6. After docker has loaded up, copy the last localhost **(127.0. 0.1)** URL which contains the **token** and open it in a browser of your choice.
 7. Jupyter Lab will open. Feel free to open any of the notebooks from the panel on the left.
 
 <br>
