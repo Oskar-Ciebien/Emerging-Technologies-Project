@@ -13,6 +13,7 @@
 * [How to Run this Project on Docker](#how-to-run-this-project-on-docker)
 * [Requirements](#requirements)
 * [Credits](#credits)
+* [Contact Me](#contact-me)
 
 <br>
 
@@ -104,3 +105,8 @@ To open this repository on Docker with Jupyter Lab:
 
 #### Module Content
 - Dr. Ian McLoughlin at Galway-Mayo Institute of Technology
+
+<br>
+
+## Contact Me
+G00369579@gmit.ie
