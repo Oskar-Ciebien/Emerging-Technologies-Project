@@ -82,10 +82,11 @@ To open this repository on Docker with Jupyter Lab:
 
 ## Credits
 
-#### nbViewer Badge
-- https://github.com/jupyter/nbviewer/issues/714
+#### nbViewer
+- https://nbviewer.org/
+- https://github.com/jupyter/nbviewer/issues/714 (Badge)
 
-#### Binder Badge
+#### Binder
 - https://mybinder.org/
 
 #### Scikit-Learn
@@ -103,7 +104,14 @@ To open this repository on Docker with Jupyter Lab:
 #### Docker
 - https://www.docker.com/
 
+#### Pandas
+- https://pandas.pydata.org/
+
+#### Kaggle
+- https://www.kaggle.com/
+
 #### Module Content
+I heavily relied on the module content that was published throughout the semester.
 - Dr. Ian McLoughlin at Galway-Mayo Institute of Technology
 
 <br>
