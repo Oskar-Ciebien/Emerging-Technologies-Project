@@ -76,10 +76,10 @@ http://127.0.0.1:8888/lab?token=12be5f4b80fdfe2487b51b0602c21a533e3b2dad0a989aea
 <br>
 
 ## Requirements
-- Cmder (Optional)
 - Docker
-- Anaconda
 - WSL2
+- Cmder (Optional)
+- Anaconda (Optional)
 
 <br>
 
