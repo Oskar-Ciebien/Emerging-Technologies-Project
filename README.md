@@ -67,7 +67,10 @@ To open this repository on Docker with Jupyter Lab:
 3. Run docker desktop on your PC.
 4. Open a command prompt or terminal on the cloned folder.
 5. Run this command **docker-compose up** in the command prompt or terminal.
-6. After docker has loaded up, copy the last localhost **(127.0. 0.1)** URL which contains the **token** and open it in a browser of your choice.
+6. After docker has loaded up, copy the last localhost **(127.0. 0.1)** URL which contains the **token** and open it in a browser of your choice. Should look like this:
+```
+http://127.0.0.1:8888/lab?token=12be5f4b80fdfe2487b51b0602c21a533e3b2dad0a989aea
+```
 7. Jupyter Lab will open. Feel free to open any of the notebooks from the panel on the left.
 
 <br>
@@ -96,7 +99,7 @@ Scikit-Learn is one of the requirements for this project. I heavily relied on th
 - https://scikit-learn.org/
 
 ### NumPy
-
+I used NumPy to manage numerical arrays.
 - https://numpy.org/
 
 ### Jupyter
