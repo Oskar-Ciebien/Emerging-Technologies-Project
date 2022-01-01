@@ -82,35 +82,48 @@ To open this repository on Docker with Jupyter Lab:
 
 ## Credits
 
-#### nbViewer
+### nbViewer
+I used nbViewer to display my notebooks in a static form.
 - https://nbviewer.org/
 - https://github.com/jupyter/nbviewer/issues/714 (Badge)
 
-#### Binder
+### Binder
+Binder allowed me to display my notebooks in dynamic form.
 - https://mybinder.org/
 
-#### Scikit-Learn
+### Scikit-Learn
+Scikit-Learn is one of the requirements for this project. I heavily relied on this machine learning library.
 - https://scikit-learn.org/
 
-#### NumPy
+### NumPy
+
 - https://numpy.org/
 
-#### Jupyter
+### Jupyter
+I relied on Jupyter to create my notebooks.
 - https://jupyter.org/
 
-#### Qiskit
+### Qiskit
+Qiskit plays an important role in this project. I used it in my **Quantum-Deutsch Notebook**. As it is a great tool to use when working with Quantum.
 - https://qiskit.org/
 
-#### Docker
+### Docker
+I relied on Docker in order to make the notebooks easily available. Docker is fairly popular among the software community. Thanks to Docker we can use software without downloading dependencies onto our machines.
 - https://www.docker.com/
 
-#### Pandas
+### Pandas
+I used Pandas for data manipulation in my **Scikit-Learn Notebook**.
 - https://pandas.pydata.org/
 
-#### Kaggle
+### Machine Learning Repository
+I used the Machine Learning Repository to find all of my Data Sets.
+- https://archive.ics.uci.edu/ml/index.php
+
+### Kaggle
+I relied on Kaggle to look for tutorials on many different topics for this project. It is a great source of tutorials and information.
 - https://www.kaggle.com/
 
-#### Module Content
+### Module Content
 I heavily relied on the module content that was published throughout the semester.
 - Dr. Ian McLoughlin at Galway-Mayo Institute of Technology
 
