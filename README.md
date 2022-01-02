@@ -48,7 +48,7 @@ This is a project for the Emerging Technologies module for 2021. The task is to 
 
 <br>
 
-## How to Run Jupyter Notebook
+## How to this Project on Jupyter Notebook
 
 In order to open the Jupyter Notebooks in this repository, you are required to:
 1. Clone this repository by copying this *[URL](https://github.com/Oskar-Ciebien/Emerging-Technologies-Project)*.
@@ -95,7 +95,7 @@ Binder allowed me to display my notebooks in dynamic form.
 - https://mybinder.org/
 
 ### Scikit-Learn
-Scikit-Learn is one of the requirements for this project. I heavily relied on this machine learning library.
+**Scikit-Learn** is one of the requirements for this project. I heavily relied on this machine learning library.
 - https://scikit-learn.org/
 
 ### NumPy
@@ -111,7 +111,7 @@ Qiskit plays an important role in this project. I used it in my **Quantum-Deutsc
 - https://qiskit.org/
 
 ### Docker
-I relied on Docker in order to make the notebooks easily available. Docker is fairly popular among the software community. Thanks to Docker we can use software without downloading dependencies onto our machines.
+I relied on Docker in order to make the notebooks easily available. Docker is fairly popular among the software development community. Thanks to Docker we can use software without downloading dependencies onto our machines.
 - https://www.docker.com/
 
 ### Pandas
@@ -128,7 +128,7 @@ I relied on Kaggle to look for tutorials on many different topics for this proje
 
 ### Module Content
 I heavily relied on the module content that was published throughout the semester.
-- Dr. Ian McLoughlin at Galway-Mayo Institute of Technology
+- Dr. Ian McLoughlin Lecturer at Galway-Mayo Institute of Technology
 
 <br>
 
